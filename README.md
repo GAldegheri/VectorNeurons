@@ -1,0 +1,1 @@
+Simple experiments with [vector neurons](https://arxiv.org/abs/2104.12229). Based on the [original implementation](https://github.com/FlyingGiraffe/vnn).
